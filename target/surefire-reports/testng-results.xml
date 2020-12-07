@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="23680" started-at="2020-12-07T18:04:18 IST" finished-at="2020-12-07T18:04:42 IST">
+  <suite name="Suite" duration-ms="24763" started-at="2020-12-07T18:17:04 IST" finished-at="2020-12-07T18:17:28 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="23680" started-at="2020-12-07T18:04:18 IST" finished-at="2020-12-07T18:04:42 IST">
+    <test name="Test" duration-ms="24763" started-at="2020-12-07T18:17:04 IST" finished-at="2020-12-07T18:17:28 IST">
       <class name="com.odoo.scripts.LoginTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.odoo.scripts.LoginTest@5a1c0542]" name="setup" is-config="true" duration-ms="2220" started-at="2020-12-07T18:04:26 IST" finished-at="2020-12-07T18:04:28 IST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.odoo.scripts.LoginTest@5a1c0542]" name="setup" is-config="true" duration-ms="2201" started-at="2020-12-07T18:17:12 IST" finished-at="2020-12-07T18:17:14 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.odoo.scripts.LoginTest@5a1c0542]" name="preCondition" is-config="true" duration-ms="3500" started-at="2020-12-07T18:04:28 IST" finished-at="2020-12-07T18:04:32 IST">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.odoo.scripts.LoginTest@5a1c0542]" name="preCondition" is-config="true" duration-ms="3672" started-at="2020-12-07T18:17:14 IST" finished-at="2020-12-07T18:17:18 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preCondition -->
-        <test-method status="PASS" signature="login()[pri:0, instance:com.odoo.scripts.LoginTest@5a1c0542]" name="login" duration-ms="9747" started-at="2020-12-07T18:04:32 IST" finished-at="2020-12-07T18:04:42 IST">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.odoo.scripts.LoginTest@5a1c0542]" name="login" duration-ms="10572" started-at="2020-12-07T18:17:18 IST" finished-at="2020-12-07T18:17:28 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
