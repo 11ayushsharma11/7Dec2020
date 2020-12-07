@@ -1,0 +1,2 @@
+com\odoo\scripts\BaseAbstractTest.class
+com\odoo\scripts\LoginTest.class

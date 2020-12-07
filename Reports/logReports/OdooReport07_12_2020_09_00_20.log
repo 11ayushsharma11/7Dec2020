@@ -1,0 +1,23 @@
+2020-12-07 09:00:20,576 [main] INFO com.odoo.webutils.MyTestListener - Suite Execution Starts!
+2020-12-07 09:00:20,586 [main] INFO com.odoo.webutils.MyTestListener - chrome launched in windows platform and headless: false
+2020-12-07 09:00:35,600 [main] INFO com.odoo.webutils.MyTestListener - login Execution Starts!
+2020-12-07 09:00:38,006 [main] INFO com.odoo.webutils.MyTestListener - Finding Element with Locator By.xpath: //input[@id='login']
+2020-12-07 09:00:38,319 [main] INFO com.odoo.webutils.MyTestListener - Finding Element with Locator By.xpath: //input[@id='password']
+2020-12-07 09:00:38,481 [main] INFO com.odoo.webutils.MyTestListener - Finding Element with Locator By.xpath: //button[text()='Log in']
+2020-12-07 09:00:44,086 [main] INFO com.odoo.webutils.MyTestListener - Finding Element with Locator By.xpath: //div[text()='CRM1']
+2020-12-07 09:01:04,226 [main] FATAL com.odoo.webutils.MyTestListener - no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='CRM1']"}
+  (Session info: chrome=87.0.4280.66)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.0.0-alpha-7', revision: 'de8579b6d5'
+System info: host: 'DESKTOP-Q7N8IA6', ip: '192.168.43.243', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.66, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: C:\Users\AYUSHS~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:60350}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 9ddfcd69371b217dafeabbd9f84a5249
+*** Element info: {Using=xpath, value=//div[text()='CRM1']}
+2020-12-07 09:01:04,291 [main] ERROR com.odoo.webutils.MyTestListener - login Script Failed!
+2020-12-07 09:01:05,390 [main] INFO com.odoo.webutils.MyTestListener - Suite Execution Ends!
+2020-12-07 09:01:05,391 [main] INFO com.odoo.webutils.MyTestListener - Total time taken in execution 44
+2020-12-07 09:01:05,391 [main] INFO com.odoo.webutils.MyTestListener - Total Number of Script Executed 1
+2020-12-07 09:01:05,392 [main] INFO com.odoo.webutils.MyTestListener - Total Number of Script passed 0
+2020-12-07 09:01:05,392 [main] INFO com.odoo.webutils.MyTestListener - Total Number of Script failed 1
+2020-12-07 09:01:05,392 [main] INFO com.odoo.webutils.MyTestListener - Total Number of Script skipped 0

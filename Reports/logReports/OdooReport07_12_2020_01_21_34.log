@@ -1,0 +1,10 @@
+2020-12-07 01:21:35,095 [main] INFO com.odoo.webutils.MyTestListener - Suite Execution Starts!
+2020-12-07 01:21:35,106 [main] INFO com.odoo.webutils.MyTestListener - chrome launched in windows platform and headless: false
+2020-12-07 01:22:05,915 [main] INFO com.odoo.webutils.MyTestListener - login Execution Starts!
+2020-12-07 01:22:05,937 [main] WARN com.odoo.webutils.MyTestListener - login Script Skipped!
+2020-12-07 01:22:06,001 [main] INFO com.odoo.webutils.MyTestListener - Suite Execution Ends!
+2020-12-07 01:22:06,002 [main] INFO com.odoo.webutils.MyTestListener - Total time taken in execution 31
+2020-12-07 01:22:06,004 [main] INFO com.odoo.webutils.MyTestListener - Total Number of Script Executed 1
+2020-12-07 01:22:06,009 [main] INFO com.odoo.webutils.MyTestListener - Total Number of Script passed 0
+2020-12-07 01:22:06,010 [main] INFO com.odoo.webutils.MyTestListener - Total Number of Script failed 0
+2020-12-07 01:22:06,011 [main] INFO com.odoo.webutils.MyTestListener - Total Number of Script skipped 1

@@ -1,0 +1,1 @@
+mvn -Dplatform=windows -Dbrowser=chrome -Durl=https://11ayushsharma11.odoo.com/web/login -Dheadless=false -Dsuite=testngLoginTest.xml clean test

@@ -1,0 +1,13 @@
+2020-12-07 01:17:43,589 [main] INFO com.odoo.webutils.MyTestListener - Suite Execution Starts!
+2020-12-07 01:17:43,602 [main] INFO com.odoo.webutils.MyTestListener - chrome launched in windows platform and headless: false
+2020-12-07 01:18:00,279 [main] INFO com.odoo.webutils.MyTestListener - login Execution Starts!
+2020-12-07 01:18:02,512 [main] INFO com.odoo.webutils.MyTestListener - Finding Element with Locator By.xpath: //input[@id='login']
+2020-12-07 01:18:02,942 [main] INFO com.odoo.webutils.MyTestListener - Finding Element with Locator By.xpath: //input[@id='password']
+2020-12-07 01:18:03,280 [main] INFO com.odoo.webutils.MyTestListener - Finding Element with Locator By.xpath: //button[text()='Log in']
+2020-12-07 01:18:12,861 [main] INFO com.odoo.webutils.MyTestListener - login Script passed!
+2020-12-07 01:18:12,903 [main] INFO com.odoo.webutils.MyTestListener - Suite Execution Ends!
+2020-12-07 01:18:12,904 [main] INFO com.odoo.webutils.MyTestListener - Total time taken in execution 29
+2020-12-07 01:18:12,905 [main] INFO com.odoo.webutils.MyTestListener - Total Number of Script Executed 1
+2020-12-07 01:18:12,905 [main] INFO com.odoo.webutils.MyTestListener - Total Number of Script passed 1
+2020-12-07 01:18:12,906 [main] INFO com.odoo.webutils.MyTestListener - Total Number of Script failed 0
+2020-12-07 01:18:12,906 [main] INFO com.odoo.webutils.MyTestListener - Total Number of Script skipped 0
