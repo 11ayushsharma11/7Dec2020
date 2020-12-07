@@ -1,4 +1,4 @@
-# Created at 2020-12-07T09:17:47.848
+# Created at 2020-12-07T17:25:04.773
 Boot Manifest-JAR contains absolute paths in classpath 'D:\4Dec2020Workspace\odooCRM\target\test-classes'
 Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
 
